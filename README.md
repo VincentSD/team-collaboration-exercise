@@ -23,7 +23,8 @@ By completing this exercise, you will:
 ### **Participants**
 *Add your name here using the format below:*
 Amanquador Acquah-Keelson -PhD Candidate, UCC -Banana is radioactive
-David Makoko - Data Analyst, Jhpiego 
+-
+- David Makoko - Data Analyst, Jhpiego 
 ```
 - **[Your Full Name]** - [Your Role/Institution] - [Fun Fact]
 ```
