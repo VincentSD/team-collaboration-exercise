@@ -23,7 +23,7 @@ By completing this exercise, you will:
 ### **Participants**
 *Add your name here using the format below:*
 
-```
+-Desmond Sarfo Boampong - coffee and football addict- Research assistant- UCC```
 - **[Your Full Name]** - [Your Role/Institution] - [Fun Fact]
 ```
 
