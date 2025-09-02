@@ -18,7 +18,7 @@ By completing this exercise, you will:
 *Everyone adds their name below. This is where the magic (and conflicts) happen!*
 
 ### **Course Team**
-- **Vincent Donkoh** - Lead Learner & Git Workflow Facilitator
+- **Vincent is  Donkoh** - Lead Learner & Git Workflow Facilitator
 
 ### **Participants**
 *Add your name here using the format below:*
