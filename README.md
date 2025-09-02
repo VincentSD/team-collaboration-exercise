@@ -24,7 +24,7 @@ By completing this exercise, you will:
 *Add your name here using the format below:*
 
 ```
-- **[Your Full Name]** - [Your Role/Institution] - [Fun Fact]
+- **Mouhamadou Fadel DIOP** -  PhD Student, London School of Hygiene and Tropical Medicine - Coffee ☕ and Football addict
 ```
 
 **Examples:**
