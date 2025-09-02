@@ -26,7 +26,7 @@ By completing this exercise, you will:
 ```
 - **[Your Full Name]** - [Your Role/Institution] - [Fun Fact]
 - Amanquador Acquah-Keelson -PhD Candidate, UCC -Banana is radioactive
-```
+-`Desmond Sarfo Boampong- Research Assistant, UCC
 - Sylvia Ezenwa-Ahanene - Senior Surveillance/Emergency Preparedness and Response Officer/ Nigeria Centre for Disease Control and Prevention(NCDC)
 
 **Examples:**
