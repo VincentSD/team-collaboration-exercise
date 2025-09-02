@@ -26,6 +26,7 @@ By completing this exercise, you will:
 ```
 - **[Your Full Name]** - [Your Role/Institution] - [Fun Fact]
 - Amanquador Acquah-Keelson -PhD Candidate, UCC -Banana is radioactive
+- Tina Confort KOLLIE -Reseacher, PAUSTI - obtain my Ph.D in Biostatistics, Speaks 3 languages, Help vulnerable people
 ```
 
 **Examples:**
