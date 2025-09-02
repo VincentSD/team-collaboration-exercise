@@ -28,6 +28,7 @@ By completing this exercise, you will:
 - Amanquador Acquah-Keelson -PhD Candidate, UCC -Banana is radioactive
 ```
 - Sylvia Ezenwa-Ahanene - Senior Surveillance/Emergency Preparedness and Response Officer/ Nigeria Centre for Disease Control and Prevention(NCDC)
+- **Boi KONE** - Bioinformatician, PDNA/USTTB - Cooking, Movies
 
 **Examples:**
 - **Sarah Chen** - PhD Student, London School of Hygiene - Coffee addict ☕
