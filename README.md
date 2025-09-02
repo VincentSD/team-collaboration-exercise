@@ -22,7 +22,7 @@ By completing this exercise, you will:
 
 ### **Participants**
 *Add your name here using the format below:*
-
+- ** Gloria Swilla** - MD, Program Officer One Health Society - Digitalsavy!
 ```
 - **[Your Full Name]** - [Your Role/Institution] - [Fun Fact]
 - Amanquador Acquah-Keelson -PhD Candidate, UCC -Banana is radioactive
