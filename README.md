@@ -24,7 +24,7 @@ By completing this exercise, you will:
 *Add your name here using the format below:*
 - ** Gloria Swilla** - MD, Program Officer One Health Society - Digitalsavy!
 ```
-- **[Your Full Name]** - [Your Role/Institution] - [Fun Fact]
+- Nana Safo Duker - AI/ML, Bioinformatics - Football
 - Amanquador Acquah-Keelson -PhD Candidate, UCC -Banana is radioactive
 ```
 - Sylvia Ezenwa-Ahanene - Senior Surveillance/Emergency Preparedness and Response Officer/ Nigeria Centre for Disease Control and Prevention(NCDC)
